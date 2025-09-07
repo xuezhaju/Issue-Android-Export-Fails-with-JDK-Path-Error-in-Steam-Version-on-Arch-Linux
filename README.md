@@ -6,33 +6,7 @@
 - Operating System : ArchLinux
   
 - Godot Version : Godot(Steam Version 4.4.1 stable)
-
-
-                  -`                     L0rax@L0raxComputer
-                 .o+`                    -------------------
-                `ooo/                    OS: Arch Linux x86_64
-               `+oooo:                   Host: ASUS MB
-              `+oooooo:                  Kernel: Linux 6.16.4-arch1-1
-              -+oooooo+:                 Uptime: 4 hours, 15 mins
-            `/:-:++oooo+:                Packages: 1469 (pacman)
-           `/++++/+++++++:               Shell: bash 5.3.3
-          `/++++++++++++++:              Display (F245C1): 1920x1080 @ 120 Hz in 24" [Ex]
-         `/+++ooooooooooooo/`            DE: KDE Plasma 6.4.4
-        ./ooosssso++osssssso+`           WM: KWin (Wayland)
-       .oossssso-````/ossssss+`          WM Theme: Breeze
-      -osssssso.      :ssssssso.         Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], ]
-     :osssssss/        osssso+++.        Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
-    /ossssssss/        +ssssooo/-        Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) []
-  `/ossssso+/:-        -:/+osssso+-      Cursor: breeze (24px)
- `+sso+:-`                 `.-/+oso:     Terminal: konsole 25.8.0
-`++:.                           `-/+/    CPU: Intel(R) Pentium(R) G3260 (2) @ 3.30 GHz
-.`                                 `/    GPU: NVIDIA GeForce GTX 750 Ti [Discrete]
-                                         Memory: 5.41 GiB / 11.61 GiB (47%)
-                                         Swap: 1.71 GiB / 4.00 GiB (43%)
-                                         Disk (/): 79.74 GiB / 468.38 GiB (17%) - ext4
-                                         Local IP (enp3s0): 192.168.10.109/24
-                                         Locale: en_US.UTF-8
-
+![alt text](AboutComputer.png)
 ---
   
 ## Description of the Problem 
